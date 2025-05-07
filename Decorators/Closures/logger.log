@@ -1,0 +1,49 @@
+INFO:root:EXECUTED: mult with arguments (3, 5)
+INFO:root:Executing mult with arguments (3, 5)
+INFO:root:Executing mult with arguments (10, 5)
+INFO:root:Executing mult with arguments (1, 0)
+INFO:root:Executing mult with arguments (3, 5)
+INFO:root:Executing mult with arguments (10, 5)
+INFO:root:Executing mult with arguments (1, 0)
+INFO:root:Executing div with arguments (10, 5)
+INFO:root:Executing div with arguments (20, 10)
+INFO:root:Executing div with arguments (1, 0)
+INFO:root:Executing mult with arguments (3, 5)
+INFO:root:Executing mult with arguments (10, 5)
+INFO:root:Executing mult with arguments (1, 0)
+INFO:root:Executing div with arguments (10, 5)
+INFO:root:Executing div with arguments (20, 10)
+INFO:root:Executing div with arguments (1, 0)
+INFO:root:Executing div with arguments (1.0,)
+INFO:root:Executing mult with arguments (3, 5)
+INFO:root:Executing mult with arguments (10, 5)
+INFO:root:Executing mult with arguments (1, 0)
+INFO:root:Executing div with arguments (10, 5)
+INFO:root:Executing div with arguments (20, 10)
+INFO:root:Executing div with arguments (1, 0)
+INFO:root:Executing div with arguments (1, 0)
+INFO:root:Executing mult with arguments (3, 5)
+INFO:root:Executing mult with arguments (10, 5)
+INFO:root:Executing mult with arguments (1, 0)
+INFO:root:Executing div with arguments (10, 5)
+INFO:root:Executing div with arguments (20, 10)
+INFO:root:Executing div with arguments (1, 0)
+INFO:root:Executing div with arguments (1, 0)
+INFO:root:Executing mult with arguments (3, 5) - 15
+INFO:root:Executing mult with arguments (10, 5) - 50
+INFO:root:Executing mult with arguments (1, 0) - 0
+INFO:root:Executing div with arguments (10, 5) - 2.0
+INFO:root:Executing div with arguments (20, 10) - 2.0
+INFO:root:Executing mult with arguments (3, 5) - 15
+INFO:root:Executing mult with arguments (10, 5) - 50
+INFO:root:Executing mult with arguments (1, 0) - 0
+INFO:root:Executing div with arguments (10, 5) - 2.0
+INFO:root:Executing div with arguments (20, 10) - 2.0
+INFO:root:Executing div with arguments (1, 0) - division by zero
+INFO:root:Executing div with arguments (1, 0) - division by zero
+INFO:root:Executing mult with arguments (3, 5) - 15
+INFO:root:Executing mult with arguments (10, 5) - 50
+INFO:root:Executing mult with arguments (1, 0) - 0
+INFO:root:Executing div with arguments (10, 5) - 2.0
+INFO:root:Executing div with arguments (20, 10) - 2.0
+INFO:root:Executing div with arguments (1, 0) - division by zero
