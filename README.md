@@ -60,8 +60,6 @@ python decorators/practice.py
 
 ---
 
-Feel free to use or adapt these examples for your own learning or teaching.
-
 ## 📬 Contributions
 
 This is a personal learning project, but feel free to open issues or suggest improvements if you're exploring similar topics!
