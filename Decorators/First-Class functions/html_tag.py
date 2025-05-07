@@ -1,7 +1,7 @@
 def html_tag(tag: str):
 
     def tag_wrapper(message: str):
-        return f"<{tag}>{message}<{tag}>"
+        return f"<{tag}>{message}</{tag}>"
     
     return tag_wrapper
 
